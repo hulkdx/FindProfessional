@@ -10,7 +10,7 @@ kotlin = "2.1.0"
 # noinspection AndroidGradlePluginVersion
 androidGradlePlugin = "8.8.0"
 # https://developer.android.com/jetpack/androidx/releases/activity
-androidxActivity = "1.9.3"
+androidxActivity = "1.10.0"
 # https://developer.android.com/jetpack/androidx/releases/datastore
 androidxDataStore = "1.1.2"
 # https://github.com/coil-kt/coil
