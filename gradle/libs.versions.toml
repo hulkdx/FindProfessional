@@ -16,7 +16,7 @@ androidxDataStore = "1.1.2"
 # https://github.com/coil-kt/coil
 coil = "3.0.4"
 # https://github.com/JetBrains/compose-multiplatform
-compose-plugin = "1.7.3"
+compose-plugin = "1.8.0+dev2019"
 # https://github.com/arkivanov/Decompose
 decompose = "3.2.2"
 # https://github.com/InsertKoinIO/koin
