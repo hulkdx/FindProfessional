@@ -8,7 +8,7 @@
 kotlin = "2.1.0"
 # https://developer.android.com/studio/releases/gradle-plugin
 # noinspection AndroidGradlePluginVersion
-androidGradlePlugin = "8.8.0"
+androidGradlePlugin = "8.8.1"
 # https://developer.android.com/jetpack/androidx/releases/activity
 androidxActivity = "1.9.3"
 # https://developer.android.com/jetpack/androidx/releases/datastore
