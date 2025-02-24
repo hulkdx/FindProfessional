@@ -34,7 +34,7 @@ kotlinxCoroutines = "1.10.1"
 # https://github.com/square/leakcanary
 leakcanary = "2.14"
 # https://central.sonatype.com/artifact/org.jetbrains.androidx.lifecycle/lifecycle-viewmodel-compose/versions
-lifecycle = "2.8.4"
+lifecycle = "2.9.0+dev2115"
 # https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-compatibility-and-versioning.html#jetpack-compose-and-compose-multiplatform-release-cycles
 test-composeUi = "1.7.6"
 
